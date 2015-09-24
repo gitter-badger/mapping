@@ -14,3 +14,6 @@ var mStatistics = function() {
 
 	
 };
+
+
+module.exports = mStatistics;

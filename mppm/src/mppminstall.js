@@ -13,3 +13,6 @@ var mppmManagement = function() {
 
 	
 };
+
+
+module.exports = mppmManagement;

@@ -14,3 +14,6 @@ var mComplexity = function() {
 
 	
 };
+
+
+module.exports = mComplexity;

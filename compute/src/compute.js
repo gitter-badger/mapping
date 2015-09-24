@@ -14,3 +14,6 @@ var mCompute = function() {
 
 	
 };
+
+
+module.exports = mCompute;

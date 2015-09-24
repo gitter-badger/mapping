@@ -11,6 +11,9 @@
 * @version    $Id$
 */
 var mResolution = function() {
-
+console.log('resolution is live');
 	
 };
+
+
+module.exports = mResolution;
