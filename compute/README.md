@@ -1,3 +1,3 @@
 # Dsensor.org - a better understanding of reality
 
-# NEURAL (FUZZY) NETWORK
+# Compute  measures compute resources used CPU

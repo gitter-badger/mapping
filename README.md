@@ -5,16 +5,18 @@
 CORE FUNCTIONS
 ===========
 
+MPPM store & Setup of Mappers code
+
+
+Over management of MPPM's
+=========================
+
 Context Awareness
 
 Complexity Management
 
-Neural Network computation
-
-Npothesis Management
-
-Statistics module
-
 Error managment
 
 Mapping Accounting
+
+Combining MPPM's to projects
