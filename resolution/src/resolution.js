@@ -16,7 +16,7 @@ var events = require("events");
 var mResolution = function() {
 console.log('resolution is live');
 	events.EventEmitter.call(this);
-	this.emitResolution();
+	//this.emitResolution();
 };
 
 /**
@@ -33,6 +33,7 @@ util.inherits(mResolution, events.EventEmitter);
 mResolution.prototype.computationallyActive = function() {
 
 	// those MPPM highest scoring for the resolution client
+	// keep those containers computationally active 
 	
 	
 	
@@ -74,7 +75,7 @@ mResolution.prototype.aggregatescoreResolution = function() {
 };
 
 /**
-*  emit message to SOUL
+*  emit message to API
 * @method beginListening		
 *
 */	
