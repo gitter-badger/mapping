@@ -1,7 +1,7 @@
 /**
 * Dsensor - Mapping Protocol Score
 *
-*  Evaluate a MPPM prediction path and normalize context for comparion
+*  Evaluate a MNM prediction path and normalize context for comparion
 *  
 * @class mScore
 *
@@ -37,11 +37,11 @@ mScore.prototype.ppscoring = function() {
 	
 	
 	scoring = [0,0,0,0,0,0,0,0,0,0];  // perfect
-	
+	//scoring['pp'], scoring['complexity'],scoring['context']
 	
 	//  make HASH of scoring data and save to blockchain MNM smart contract
 	// keep track of scoring on local database
-	
+	this.mnmscore = scoring
 	
 	
 };	
