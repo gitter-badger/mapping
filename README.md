@@ -1,6 +1,8 @@
 # Dsensor.org - a better understanding of reality
 # MAPPING PROTOCOL
 
+[![Join the chat at https://gitter.im/Dsensor/mapping](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Dsensor/mapping?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 INTRODUCTION
 =========
